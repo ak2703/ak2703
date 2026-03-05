@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi, I'm Akshay Vilekar 👋
 
+Backend / Distributed Systems Engineer
+
+I build scalable backend systems and developer infrastructure.
+My focus is on high-throughput services, event-driven systems, and reliability.
+
+Languages: Java • Go • Node.js • Python  
+Infrastructure: Kafka • Postgres • Redis • Docker • Kubernetes  
 <!--
 **ak2703/ak2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
