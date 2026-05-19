@@ -1,23 +1,24 @@
-# Hi, I'm Akshay Vilekar 👋
+# Akshay Vilekar
 
-Backend / Distributed Systems Engineer
+**Senior Backend Engineer · Distributed Systems · Open to Remote**
 
-I build scalable backend systems and developer infrastructure.
-My focus is on high-throughput services, event-driven systems, and reliability.
+I design and build high-throughput, fault-tolerant backend systems.
+8 years of production experience across event-driven architecture,
+microservices, and cloud-native infrastructure.
 
-Languages: Java • Go • Node.js • Python  
-Infrastructure: Kafka • Postgres • Redis • Docker • Kubernetes  
-<!--
-**ak2703/ak2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:** Java · Go · Python · Node.js
+**Infrastructure:** Apache Kafka · PostgreSQL · Redis · Docker · Kubernetes
+**Practices:** System Design · Event-Driven Architecture · API Design · Observability
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- 🔧 Building a distributed rate limiter in Go (Redis-backed, token bucket + sliding window)
+- 📦 Event-driven order processing system with Kafka + Postgres + outbox pattern
+- 📝 Writing about Kafka consumer group internals and Postgres MVCC
+
+---
+
+📫 akshay@akshayvilekar.me · [akshayvilekar.me](https://akshayvilekar.me) · [LinkedIn](https://linkedin.com/in/akshay-vilekar-b25a2584)
+
+**Currently open to Senior/Staff Backend Engineer and Platform Engineer roles (Remote)**
